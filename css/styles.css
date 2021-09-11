@@ -1,0 +1,62 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&family=WindSong&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    color: #5089C6;
+}
+
+a:hover {
+    color: #035397;
+}
+
+/* About Section */
+.name {
+    font-family: 'WindSong', cursive;
+}
+
+/* Navigation Section */
+.navigation {
+    background-color: #001E6C;
+    color: #fff;
+}
+
+/* About Section */
+.about-me {
+    background-color: #001E6C;
+    color: #fff;
+    padding: 5rem;
+}
+
+/* Projects Section */
+.projects-section {
+    padding: 5rem;
+}
+
+li {
+    text-align: left;
+}
+
+.view-site {
+    background-color: #5089C6;
+    color: #fff;
+}
+
+.view-site:hover {
+    background-color: #035397;
+    color: #fff;
+}
+
+/* Footer Section */
+.footer-section {
+    background-color: #001E6C;
+    color: #fff;
+    padding: 5rem;
+}
+
+.icons {
+    padding: 1rem 0.5rem ;
+}
